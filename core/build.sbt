@@ -1,0 +1,2 @@
+
+name := "scoder-core"
